@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows.Forms.DataVisualization.Charting;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,23 +11,16 @@ using System.Windows.Forms;
 
 namespace exercicio_windows_forms
 {
-    public partial class Form5 : Form
+    public partial class Form8 : Form
     {
-        public Form5()
+        public Form8()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form8 j8 = new Form8();
-            j8.Show();
-        }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Form9 j9 = new Form9();
-            j9.Show();
         }
     }
 }

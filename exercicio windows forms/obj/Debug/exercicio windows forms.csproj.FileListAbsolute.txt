@@ -20,3 +20,17 @@ C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\ob
 C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
 C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form2.resources
 C:\Users\Alunos\Desktop\MOSCA\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form3.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form2.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form3.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form5.resources
+C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form8.resources

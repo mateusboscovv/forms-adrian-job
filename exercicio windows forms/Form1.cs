@@ -42,7 +42,7 @@ namespace exercicio_windows_forms
                 string login = textBox1.Text;
                 string senha = textBox2.Text;
 
-                if (login == "Login" && senha == "Senha")
+                if (login == "lo" && senha == "se")
 
                 {
                 Form2 j2 = new Form2();
@@ -80,6 +80,16 @@ namespace exercicio_windows_forms
         {
             Form6 j6 = new Form6();
             j6.Show();
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
 
         }
     }

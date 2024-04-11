@@ -34,3 +34,20 @@ C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\De
 C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
 C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form5.resources
 C:\Users\user\Documents\GitHub\Desafio-Tecnico-01\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form8.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+D:\atividade_git\forms-adrian-job\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+D:\atividade_git\forms-adrian-job\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form2.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form3.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form5.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form8.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form10.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form11.resources
+D:\atividade_git\forms-adrian-job\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form4.resources

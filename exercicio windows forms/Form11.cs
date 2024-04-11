@@ -10,20 +10,17 @@ using System.Windows.Forms;
 
 namespace exercicio_windows_forms
 {
-    public partial class Form4 : Form
+    public partial class Form11 : Form
     {
-        public Form4()
+        public Form11(string conteudo)
         {
             InitializeComponent();
+            labelConteudo.Text = "Conteúdo escrito: " + conteudo;
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void labelConteudo_Click(object sender, EventArgs e)
         {
-            string conteudo = richTextBox1.Text;
 
-            Form11 j11 = new Form11(conteudo);
-
-            j11.Show();
         }
     }
 }
